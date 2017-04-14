@@ -195,3 +195,8 @@ docker run --name=instapy -e INSTAGRAM_USER=<your-user> -e INSTAGRAM_PW=<your-pw
 <h6>Have Fun & Feel Free to report any issues</h6>
 
 #### Small Commit
+#### Small Commit
+#### Small Commit
+#### Small Commit
+#### Small Commit
+#### Small Commit
